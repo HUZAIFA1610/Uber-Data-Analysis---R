@@ -7,7 +7,9 @@ This repository contains the documentation and code for a comprehensive analysis
 
 # Project Overview:
 **Introduction:** Provides an overview of the project's objectives and methodology.
+
 **Data Description:** Describes the Uber dataset, including its structure and contents.
+
 **Assumption:** Discusses assumptions made about Uber trip patterns and trends.
 **Objectives:** Outlines the goals of the project.
 **Aims:** Visualize Uber's growth in NYC during the period. Characterize the demand based on identified patterns in the time series. Estimate the value of the NYC market for Uber. Other insights about the usage of the service. Attempt to predict the demand's growth beyond 2014.
